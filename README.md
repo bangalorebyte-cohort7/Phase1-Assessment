@@ -20,3 +20,10 @@ Generate the following sheets in excel through automation
 4. Sheet 4 - Sort the rows based on Metascore from original Sheet 1 scraped data with highest Metascore appear on top
 5. Sheet 5 - Sort the rows based on Number of Votes from original Sheet 1 scraped data with highest Vote appear on top.
 
+
+References used -
+http://selenium-interview-questions.blogspot.in/search/label/Selenium%20Webdriver%20in%20Python
+http://openpyxl.readthedocs.io/en/stable/filters.html
+https://www.dataquest.io/blog/excel-and-pandas/
+https://stackoverflow.com/questions/26474693/excelfile-vs-read-excel-in-pandas
+
